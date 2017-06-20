@@ -5,3 +5,4 @@ export { combineEpics } from './combineEpics';
 export { EPIC_INIT } from './EPIC_INIT';
 export { EPIC_END } from './EPIC_END';
 export { ofType } from './operators';
+export { queueUntilType } from './queueUntilType';
